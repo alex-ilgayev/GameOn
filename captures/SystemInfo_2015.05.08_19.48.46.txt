@@ -1,0 +1,30 @@
+TASK com.gameon.gameon id=55
+  ACTIVITY com.gameon.gameon/.MainActivity 2f3c5aff pid=391
+    Local FragmentActivity 1c72dcb6 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mActivity=com.gameon.gameon.MainActivity@1c72dcb6
+      mContainer=android.support.v4.app.FragmentActivity$2@52e1707
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{160e2034 V.E..... ... 0,0-1080,1920}
+        android.widget.LinearLayout{e0bbe5d V.E..... ... 0,0-1080,1776}
+          android.view.ViewStub{27ee93d2 G.E..... ... 0,0-0,0 #102036e}
+          android.widget.FrameLayout{180b1ca3 V.E..... ... 0,75-1080,1776}
+            android.support.v7.internal.widget.ActionBarOverlayLayout{28870ba0 V.E..... ... 0,0-1080,1701 #7f09002f app:id/decor_content_parent}
+              android.support.v7.internal.widget.NativeActionModeAwareLayout{4cae359 V.E..... ... 0,168-1080,1701 #1020002 android:id/description}
+                android.widget.LinearLayout{b7e1b1e V.E..... ... 0,0-1080,1533}
+                  android.widget.Button{2828dfff VFED..C. ... 48,48-675,192 #7f09003f app:id/btnStartEasy}
+                  android.widget.Button{be141cc VFED..C. ... 48,192-736,336 #7f090040 app:id/btnStartMedium}
+                  android.widget.Button{20bd5c15 VFED..C. ... 48,336-683,480 #7f090041 app:id/btnStartHard}
+                  android.widget.Button{2541a390 VFED..C. ... 48,480-661,624 #7f090042 app:id/button3}
+                  android.widget.TextView{2feccb2a V.ED.... ... 48,624-48,725 #7f090043 app:id/tvUsers}
+              android.support.v7.internal.widget.ActionBarContainer{1a357d1b V.ED.... ... 0,0-1080,168 #7f090030 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{12c6aeb8 V.E..... ... 0,0-1080,168 #7f090031 app:id/action_bar}
+                  android.widget.TextView{2224a491 V.ED.... ... 48,43-279,124}
+                  android.support.v7.widget.ActionMenuView{ce46ff6 V.E..... ... 972,0-1080,168}
+                    android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton{25a4cff7 VFED..C. ... 0,12-108,156}
+                android.support.v7.internal.widget.ActionBarContextView{e93fe64 G.E..... ... 0,0-0,0 #7f090032 app:id/action_context_bar}
+        android.view.View{31ddf8cd V.ED.... ... 0,0-1080,75 #102002f android:id/statusBarBackground}
+        android.view.View{18df9582 V.ED.... ... 0,1776-1080,1920 #1020030 android:id/navigationBarBackground}

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:paddingLeft="15dp"
+        android:paddingRight="0dp">
+
+        <Button
+            android:id="@+id/buttonKuf"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ק" />
+
+        <Button
+            android:id="@+id/buttonResh"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ר" />
+
+        <Button
+            android:id="@+id/buttonAlef"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="א" />
+
+        <Button
+            android:id="@+id/buttonTet"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ט" />
+
+        <Button
+            android:id="@+id/buttonVav"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ו" />
+
+        <Button
+            android:id="@+id/buttonNunSofit"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ן" />
+
+        <Button
+            android:id="@+id/buttonMemSofit"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ם" />
+
+        <Button
+            android:id="@+id/buttonPei"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="פ" />
+
+        <ImageButton
+            android:id="@+id/buttonDELETE"
+            style="@style/KeyboardButtonSpecial"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@drawable/btn_keyboard_delete_release"
+            android:contentDescription="DEL"
+            android:src="@drawable/keyboard_delete" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp" >
+
+        <Button
+            android:id="@+id/buttonShin"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ש" />
+
+        <Button
+            android:id="@+id/buttonDalet"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ד" />
+
+        <Button
+            android:id="@+id/buttonGimel"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ג" />
+
+        <Button
+            android:id="@+id/buttonKaf"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="כ" />
+
+        <Button
+            android:id="@+id/buttonAyin"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ע" />
+
+        <Button
+            android:id="@+id/buttonYud"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="י" />
+
+        <Button
+            android:id="@+id/buttonHet"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ח" />
+
+        <Button
+            android:id="@+id/buttonLamed"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ל" />
+
+        <Button
+            android:id="@+id/buttonKafSofit"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ך" />
+
+        <Button
+            android:id="@+id/buttonPeiSofit"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ף" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1" >
+
+        <Button
+            android:id="@+id/buttonZain"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ז" />
+
+        <Button
+            android:id="@+id/buttonSameh"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ס" />
+
+        <Button
+            android:id="@+id/buttonBet"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ב" />
+
+        <Button
+            android:id="@+id/buttonHei"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ה" />
+
+        <Button
+            android:id="@+id/buttonNun"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="נ" />
+
+        <Button
+            android:id="@+id/buttonMem"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="מ" />
+
+        <Button
+            android:id="@+id/buttonTzadik"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="צ" />
+
+        <Button
+            android:id="@+id/buttonTaf"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ת" />
+
+        <Button
+            android:id="@+id/buttonTzadikSofit"
+            style="@style/KeyboardButtonNormal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="ץ" />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,34 @@
+Applications Memory Usage (kB):
+Uptime: 4553176 Realtime: 4553176
+
+** MEMINFO in pid 391 [com.gameon.gameon] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     5128     5032        0        0    16812    16812     1619
+  Dalvik Heap     2341     2284        0        0     2027     1692      335
+ Dalvik Other      512      500        0        0                           
+        Stack      260      260        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap     1289      124      192        0                           
+    .apk mmap      210        0       36        0                           
+    .ttf mmap       17        0        0        0                           
+    .dex mmap     2696        0     2692        0                           
+    code mmap     2296        0      552        0                           
+   image mmap     7246     7012       32        0                           
+   Other mmap        6        4        0        0                           
+      Unknown      193      192        0        0                           
+        TOTAL    22198    15408     3508        0    18839    18504     1954
+ 
+ Objects
+               Views:       21         ViewRootImpl:        1
+         AppContexts:        4           Activities:        1
+              Assets:        2        AssetManagers:        2
+       Local Binders:       10        Proxy Binders:       17
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 

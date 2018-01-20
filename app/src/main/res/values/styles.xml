@@ -1,0 +1,100 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+    <style name="ButtonMain">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:background">@drawable/state_main_button</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">8</item>
+    </style>
+
+    <style name="ButtonChooseNumber">
+        <item name="android:background">@drawable/transition_choose_num</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="MenuLabelsStyle">
+        <item name="android:background">@drawable/fab_label_background</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <style name="MenuButtonsStyle">
+        <item name="fab_size">mini</item>
+        <item name="fab_showAnimation">@anim/jump_from_down</item>
+        <item name="fab_hideAnimation">@anim/jump_to_down</item>
+        <item name="fab_shadowColor">#444</item>
+    </style>
+
+    <style name="MenuButtonsStyle.Green">
+        <item name="fab_colorNormal">@color/green_light</item>
+        <item name="fab_colorPressed">@color/green_dark</item>
+        <item name="fab_colorRipple">@color/green_ripple</item>
+    </style>
+
+    <style name="MenuButtonsStyle.Blue">
+        <item name="fab_colorNormal">@color/blue_light</item>
+        <item name="fab_colorPressed">@color/blue_dark</item>
+        <item name="fab_colorRipple">@color/blue_ripple</item>
+    </style>
+
+    <style name="MenuButtonsStyle.Orange">
+        <item name="fab_colorNormal">@color/orange_light</item>
+        <item name="fab_colorPressed">@color/orange_dark</item>
+        <item name="fab_colorRipple">@color/orange_ripple</item>
+    </style>
+
+    <style name="MenuButtonsStyle.Yellow">
+        <item name="fab_colorNormal">@color/yellow_light</item>
+        <item name="fab_colorPressed">@color/yellow_dark</item>
+        <item name="fab_colorRipple">@color/yellow_ripple</item>
+    </style>
+
+    <style name="MenuButtonsStyle.Red">
+        <item name="fab_colorNormal">@color/red_light</item>
+        <item name="fab_colorPressed">@color/red_dark</item>
+        <item name="fab_colorRipple">@color/red_ripple</item>
+    </style>
+
+    <style name="MenuButtonsSmall">
+        <item name="fab_size">mini</item>
+        <item name="fab_colorNormal">#1565C0</item>
+        <item name="fab_colorPressed">#2272CD</item>
+        <item name="fab_colorRipple">#62B2FF</item>
+    </style>
+
+    <style name="MenuButtonsSmall.Green">
+        <item name="fab_colorNormal">#43A047</item>
+        <item name="fab_colorPressed">#2E7D32</item>
+        <item name="fab_colorRipple">#1B5E20</item>
+    </style>
+
+    <style name="KeyboardButtonSpecial" parent="@android:style/Widget.Button">
+        <item name="android:height">32dp</item>
+        <item name="android:layout_marginRight">2dp</item>
+        <item name="android:layout_marginLeft">2dp</item>
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:layout_marginBottom">2dp</item>
+    </style>
+
+    <style name="KeyboardButtonNormal" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/keyboard_normal</item>
+        <item name="android:height">32dp</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginRight">2dp</item>
+        <item name="android:layout_marginLeft">2dp</item>
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:layout_marginBottom">2dp</item>
+    </style>
+</resources>

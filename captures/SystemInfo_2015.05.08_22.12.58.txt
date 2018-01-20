@@ -1,0 +1,4 @@
+Applications Memory Usage (kB):
+Uptime: 597964 Realtime: 597964
+
+** MEMINFO in pid 2920 [com.gameon.gameon] **

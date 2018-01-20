@@ -1,0 +1,164 @@
+AGGREGATED OVER LAST 24 HOURS:
+System memory usage:
+  SOn /Norm: 6 samples:
+    Cached: 318MB min, 319MB avg, 321MB max
+    Free: 312MB min, 319MB avg, 326MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 32MB min, 32MB avg, 33MB max
+    Native: 33MB min, 33MB avg, 33MB max
+
+Per-Package Stats:
+  * com.gameon.gameon / u0a57 / v1:
+      * com.gameon.gameon / u0a57 / v1:
+               TOTAL: 88% (4.5MB-21MB-23MB/3.3MB-18MB-20MB over 278)
+                 Top: 86% (11MB-21MB-23MB/8.5MB-18MB-20MB over 275)
+             Service: 1.8% (4.5MB-14MB-19MB/3.3MB-12MB-16MB over 3)
+          Service Rs: 0.00%
+          (Last Act): 4.3% (17MB-17MB-17MB/15MB-15MB-15MB over 1)
+            (Cached): 1.2% (16MB-17MB-19MB/13MB-15MB-17MB over 3)
+      * com.gameon.gameon.Service.GameOnService:
+        Process: com.gameon.gameon
+            Running count 12 / time 7.0%
+            Started count 6 / time 1.4%
+              Bound count 7 / time 5.6%
+          Executing count 9 / time 2.1%
+
+Summary:
+  * com.gameon.gameon / u0a57 / v1:
+           TOTAL: 88% (4.5MB-21MB-23MB/3.3MB-18MB-20MB over 278)
+             Top: 86% (11MB-21MB-23MB/8.5MB-18MB-20MB over 275)
+         Service: 1.8% (4.5MB-14MB-19MB/3.3MB-12MB-16MB over 3)
+      Service Rs: 0.00%
+      (Last Act): 4.3% (17MB-17MB-17MB/15MB-15MB-15MB over 1)
+        (Cached): 1.2% (16MB-17MB-19MB/13MB-15MB-17MB over 3)
+
+Run time Stats:
+  SOn /Norm: +10h19m8s174ms
+      TOTAL: +10h19m8s174ms
+
+Memory usage:
+  Kernel : 32MB (48 samples)
+  Native : 33MB (48 samples)
+  Persist: 115MB (157 samples)
+  Top    : 22MB (351 samples)
+  ImpFg  : 22MB (315 samples)
+  ImpBg  : 10MB (216 samples)
+  Service: 37MB (345 samples)
+  Receivr: 20KB (312 samples)
+  Home   : 21MB (36 samples)
+  LastAct: 865KB (2 samples)
+  CchAct : 51KB (1 samples)
+  CchEmty: 69MB (387 samples)
+  Cached : 319MB (48 samples)
+  Free   : 319MB (48 samples)
+  TOTAL  : 0.98GB
+  ServRst: 394 (3 samples)
+
+          Start time: 2015-04-28 17:41:24
+  Total elapsed time: +10h19m25s533ms (partial) libart.so
+
+AGGREGATED OVER LAST 3 HOURS:
+System memory usage:
+  SOn /Norm: 2 samples:
+    Cached: 319MB min, 320MB avg, 320MB max
+    Free: 312MB min, 317MB avg, 321MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 32MB min, 32MB avg, 33MB max
+    Native: 33MB min, 33MB avg, 33MB max
+
+Per-Package Stats:
+  * com.gameon.gameon / u0a57 / v1:
+      * com.gameon.gameon / u0a57 / v1:
+               TOTAL: 92% (4.5MB-21MB-22MB/3.3MB-18MB-19MB over 116)
+                 Top: 88% (16MB-21MB-22MB/14MB-18MB-19MB over 113)
+             Service: 4.4% (4.5MB-14MB-19MB/3.3MB-12MB-16MB over 3)
+          Service Rs: 0.01%
+      * com.gameon.gameon.Service.GameOnService:
+        Process: com.gameon.gameon
+            Running count 12 / time 17%
+            Started count 6 / time 3.4%
+              Bound count 7 / time 13%
+          Executing count 9 / time 5.1%
+
+Summary:
+  * com.gameon.gameon / u0a57 / v1:
+           TOTAL: 92% (4.5MB-21MB-22MB/3.3MB-18MB-19MB over 116)
+             Top: 88% (16MB-21MB-22MB/14MB-18MB-19MB over 113)
+         Service: 4.4% (4.5MB-14MB-19MB/3.3MB-12MB-16MB over 3)
+      Service Rs: 0.01%
+
+Run time Stats:
+  SOn /Norm: +4h16m44s656ms
+      TOTAL: +4h16m44s656ms
+
+Memory usage:
+  Kernel : 32MB (16 samples)
+  Native : 33MB (16 samples)
+  Persist: 107MB (61 samples)
+  Top    : 22MB (135 samples)
+  ImpFg  : 22MB (106 samples)
+  ImpBg  : 10MB (94 samples)
+  Service: 28MB (127 samples)
+  Receivr: 23KB (144 samples)
+  Home   : 22MB (16 samples)
+  CchEmty: 77MB (160 samples)
+  Cached : 320MB (16 samples)
+  Free   : 317MB (16 samples)
+  TOTAL  : 0.97GB
+  ServRst: 0.93KB (3 samples)
+
+          Start time: 2015-05-04 19:48:13
+  Total elapsed time: +4h16m51s136ms (partial) libart.so
+
+CURRENT STATS:
+System memory usage:
+  SOn /Norm: 1 samples:
+    Cached: 320MB min, 320MB avg, 320MB max
+    Free: 312MB min, 312MB avg, 312MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 33MB min, 33MB avg, 33MB max
+    Native: 33MB min, 33MB avg, 33MB max
+
+Per-Package Stats:
+  * com.gameon.gameon / u0a57 / v1:
+      * com.gameon.gameon / u0a57 / v1:
+               TOTAL: 74% (4.5MB-19MB-22MB/3.3MB-16MB-18MB over 29)
+                 Top: 59% (16MB-19MB-22MB/14MB-17MB-18MB over 26)
+             Service: 15% (4.5MB-14MB-19MB/3.3MB-12MB-16MB over 3)
+          Service Rs: 0.02%
+      * com.gameon.gameon.Service.GameOnService:
+        Process: com.gameon.gameon
+            Running count 12 / time 57%
+            Started count 6 / time 11%
+              Bound count 7 / time 45%
+          Executing count 9 / time 17%
+
+Summary:
+  * com.gameon.gameon / u0a57 / v1:
+           TOTAL: 74% (4.5MB-19MB-22MB/3.3MB-16MB-18MB over 29)
+             Top: 59% (16MB-19MB-22MB/14MB-17MB-18MB over 26)
+         Service: 15% (4.5MB-14MB-19MB/3.3MB-12MB-16MB over 3)
+      Service Rs: 0.02%
+
+Run time Stats:
+  SOn /Norm: +1h16m4s847ms (running)
+      TOTAL: +1h16m4s847ms
+
+Memory usage:
+  Kernel : 33MB (8 samples)
+  Native : 33MB (8 samples)
+  Persist: 122MB (20 samples)
+  Top    : 22MB (45 samples)
+  ImpFg  : 22MB (42 samples)
+  ImpBg  : 9.8MB (33 samples)
+  Service: 29MB (60 samples)
+  Receivr: 41KB (65 samples)
+  Home   : 15MB (8 samples)
+  CchEmty: 89MB (61 samples)
+  Cached : 320MB (8 samples)
+  Free   : 312MB (8 samples)
+  TOTAL  : 0.98GB
+  ServRst: 3.1KB (3 samples)
+
+          Start time: 2015-05-08 15:13:34
+  Total elapsed time: +1h16m8s141ms (partial) libart.so
