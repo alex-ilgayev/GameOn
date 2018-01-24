@@ -4,7 +4,7 @@
     android:id="@+id/tabhost"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
-  <com.gameon.gameon.crossword.view.CrosswordRelativeLayout
+  <com.gameon.client.crossword.view.CrosswordRelativeLayout
       android:orientation="vertical"
       android:layout_width="fill_parent"
       android:layout_height="fill_parent"
@@ -17,7 +17,7 @@
 		android:layout_height="wrap_content"
 		/>
 
-    <com.gameon.gameon.crossword.view.ClueImageView
+    <com.gameon.client.crossword.view.ClueImageView
         android:id="@+id/miniboard"
         android:layout_width="fill_parent"
         android:layout_height="40dp"
@@ -47,5 +47,5 @@
           android:layout_height="fill_parent"
           />
     </FrameLayout>
-  </com.gameon.gameon.crossword.view.CrosswordRelativeLayout>
+  </com.gameon.client.crossword.view.CrosswordRelativeLayout>
 </TabHost>

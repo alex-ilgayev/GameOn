@@ -4,7 +4,7 @@ TASK com.gameon.gameon id=55
       mCreated=truemResumed=true mStopped=false mReallyStopped=false
       mLoadersStarted=true
     FragmentManager misc state:
-      mActivity=com.gameon.gameon.MainActivity@1c72dcb6
+      mActivity=com.gameon.client.MainActivity@1c72dcb6
       mContainer=android.support.v4.app.FragmentActivity$2@52e1707
       mCurState=5 mStateSaved=false mDestroyed=false
     View Hierarchy:

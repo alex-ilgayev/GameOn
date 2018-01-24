@@ -52,7 +52,7 @@
                     <!--android:key="nytPassword"-->
                     <!--android:password="true"-->
                     <!--android:inputType="textPassword" />-->
-                <!--<com.gameon.gameon.crossword.OpenURLPreference-->
+                <!--<com.gameon.client.crosswordword.OpenURLPreference-->
                     <!--android:title="@string/pref_get_subscription"-->
                     <!--custom:url="http://www.nytimes.com/puzzle"/>-->
             <!--</PreferenceScreen>-->
@@ -103,7 +103,7 @@
                     <!--android:key="avxwPassword"-->
                     <!--android:password="true"-->
                     <!--android:inputType="textPassword" />-->
-                <!--<com.gameon.gameon.crossword.OpenURLPreference-->
+                <!--<com.gameon.client.crosswordword.OpenURLPreference-->
                     <!--android:title="@string/pref_get_subscription"-->
                     <!--custom:url="http://www.avxword.com/"/>-->
             <!--</PreferenceScreen>-->
@@ -143,7 +143,7 @@
                     <!--android:key="crookedPassword"-->
                     <!--android:password="true"-->
                     <!--android:inputType="textPassword" />-->
-                <!--<com.gameon.gameon.crossword.OpenURLPreference-->
+                <!--<com.gameon.client.crosswordword.OpenURLPreference&ndash;&gt;-->
                     <!--android:title="@string/pref_get_subscription"-->
                     <!--custom:url="http://www.crookedcrosswords.com/"/>-->
             <!--</PreferenceScreen>-->
@@ -166,7 +166,7 @@
                     <!--android:key="crosswordNationPassword"-->
                     <!--android:password="true"-->
                     <!--android:inputType="textPassword" />-->
-                <!--<com.gameon.gameon.crossword.OpenURLPreference-->
+                <!--<com.gameon.client.crosswordword.OpenURLPreference&ndash;&gt;-->
                     <!--android:title="@string/pref_get_subscription"-->
                     <!--custom:url="http://www.xwordnation.com/"/>-->
             <!--</PreferenceScreen>-->
@@ -243,11 +243,11 @@
                 <!--android:defaultValue="true"-->
                 <!--android:key="downloadPatrickBlindauer" />-->
         <!--</PreferenceScreen>-->
-        <!--<com.gameon.gameon.crossword.OpenURLPreference-->
+        <!--<com.gameon.client.crosswordword.OpenURLPreference&ndash;&gt;-->
             <!--android:title="@string/pref_about_puzzles"-->
             <!--android:summary="@string/pref_about_puzzles_summary"-->
             <!--custom:url="file:///android_asset/about-puzzles.html" />-->
-        <!--<com.gameon.gameon.crossword.OpenURLPreference-->
+        <!--<com.gameon.client.crosswordword.OpenURLPreference&ndash;&gt;-->
             <!--android:title="@string/pref_more_puzzle_links"-->
             <!--android:summary="@string/pref_more_puzzle_links_summary"-->
             <!--custom:url="file:///android_asset/puzzle-links.html" />-->
@@ -441,16 +441,16 @@
     <!--<PreferenceCategory-->
         <!--android:title="@string/pref_about_app">-->
 
-        <!--<com.gameon.gameon.crossword.OpenURLPreference-->
+        <!--<com.gameon.client.crosswordword.OpenURLPreference&ndash;&gt;-->
             <!--android:title="@string/pref_release_notes"-->
             <!--custom:url="file:///android_asset/release.html" />-->
 
-        <!--<com.gameon.gameon.crossword.OpenURLPreference-->
+        <!--<com.gameon.client.crosswordword.OpenURLPreference&ndash;&gt;-->
             <!--android:title="@string/pref_license"-->
             <!--android:key="license"-->
             <!--custom:url="file:///android_asset/license.html" />-->
 
-        <!--<com.gameon.gameon.crossword.OpenURLPreference-->
+        <!--<com.gameon.client.crosswordword.OpenURLPreference&ndash;&gt;-->
             <!--android:title="@string/pref_source_code"-->
             <!--android:key="sourceCode"-->
             <!--custom:url="http://github.com/adamantoise/wordswithcrosses" />-->

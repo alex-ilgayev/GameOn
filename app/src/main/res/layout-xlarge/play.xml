@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.gameon.gameon.crossword.view.CrosswordRelativeLayout
+<com.gameon.client.crossword.view.CrosswordRelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
@@ -80,7 +80,7 @@
         />
   </LinearLayout>
 
-  <com.gameon.gameon.crossword.view.CrosswordImageView
+  <com.gameon.client.crossword.view.CrosswordImageView
       android:id="@+id/board"
       android:layout_alignParentTop="true"
       android:layout_alignParentRight="true"
@@ -91,4 +91,4 @@
       android:scrollbars="horizontal|vertical"
       android:layout_marginBottom="5dp" />
 
-</com.gameon.gameon.crossword.view.CrosswordRelativeLayout>
+</com.gameon.client.crossword.view.CrosswordRelativeLayout>
