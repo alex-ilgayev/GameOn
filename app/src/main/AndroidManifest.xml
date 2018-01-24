@@ -52,7 +52,7 @@
             android:parentActivityName="com.gameon.client.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.gameon.gameon.com.gameon.client.MainActivity" />
+                android:value="com.gameon.client.MainActivity" />
         </activity>
     </application>
 
